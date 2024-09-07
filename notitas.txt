@@ -1,0 +1,3 @@
+print.. f -> identación que permite poner variables y texto al mismo tiempo.
+__init__ : iniciador de instancias (agregar, quitar, etc)
+self: define al objeto
